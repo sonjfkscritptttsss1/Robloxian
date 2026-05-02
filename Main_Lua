@@ -1,4 +1,2 @@
--- ts file was generated at discord.gg/25ms
-
 game:GetService('TweenService')
 game:GetService('Players').LocalPlayer:IsInGroup(4443846399)
